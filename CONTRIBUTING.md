@@ -5,8 +5,6 @@ Thanks for contributing!
 ## Setup
 ```bash
 git clone https://github.com/EvezArt/awesome-evez.git
-cd awesome-evez
-npm install
 ```
 ## Making Changes
 1. Create a feature branch
